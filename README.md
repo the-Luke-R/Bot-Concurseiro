@@ -6,6 +6,7 @@ Uma IA que cria questões
 Um bot que gera 5 perguntas sobre um arquivo PDF qualquer
 
 **OBJETIVO**
+
 *Util para:*
 * Estudantes querendo aprender algum assunto
 * Concurseiros
