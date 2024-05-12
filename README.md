@@ -1,7 +1,5 @@
 # Bot_Concurseiro
 
-![View counter badge](https://<Your-cloudflare-deployment>.workers.dev)
-
 Uma IA que cria questões
 
 ![COMPRESSED](https://github.com/the-Luke-R/Bot_Concurseiro/assets/118010668/1ee4b07e-231d-4761-8023-b4418dcfed65)
