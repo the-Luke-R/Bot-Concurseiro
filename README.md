@@ -22,10 +22,10 @@ Concurso Bot is a tool that uses Google Gemini to create random questions from a
 
 # Usage
 * Students: The Concurso Bot can be used by students to test their knowledge on a given subject.
-* Contestants: The Concurso Bot can be used by contestants to practice for exams.
+* Civil service entrance examination: The Concurso Bot can be used by contestants to practice for exams.
 * Teachers: The Concurso Bot can be used by teachers to generate questions for their students or handouts.
 
 # Benefits
 * Increased learning: The Concurso Bot can help increase learning, as it allows users to test their knowledge interactively.
-* Faster preparation for tests:The Concurso Bot streamlines preparation by eliminating the need for students to manually create or search for practice questions online. By providing a pool of relevant questions directly, the Concurso Bot allows users to focus their study time and get to practicing faster.
+* Faster preparation for tests: The Concurso Bot streamlines preparation by eliminating the need for students to manually create or search for practice questions online. By providing a pool of relevant questions directly, the Concurso Bot allows users to focus their study time and get to practicing faster.
 * Efficiency for teachers: The Concurso Bot can help teachers save time, as it allows them to generate questions quickly and easily.
