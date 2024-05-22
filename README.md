@@ -18,8 +18,7 @@ O Bot Concurseiro é uma ferramenta que utiliza o Google Gemini para criar quest
 
 ## English
 
-Concurso Bot
-The Concurso Bot is a tool that uses Google Gemini to create random questions from a PDF file. It reads the file and generates 5 questions with 5 alternatives each. After the user answers, the bot informs how many answers are correct and which are the correct alternatives.
+Concurso Bot is a tool that uses Google Gemini to create random questions from a PDF file. It reads the file and generates 5 questions with 5 alternatives each. After the user answers, the bot informs how many answers are correct and which are the correct alternatives.
 
 # Usage
 * Students: The Concurso Bot can be used by students to test their knowledge on a given subject.
